@@ -63,12 +63,8 @@ Administrators have access to features such as adding standards, sections, staff
 2. Staff Module: 
 Staff members can manage student information, mark attendance, handle complaints, and process leave requests. They have tools to manage their accounts and view relevant reports.
 
-3.Student Module: 
+3. Student Module: 
 Students can view their personal details, submit complaints, apply for leave, and view their attendance reports. They also have the ability to change their passwords.
-
-4. To modify the saved notes, click on the **Edit** button, which is a button you can edit the saved notes.
-
-5. To clear the saved notes, click on the **"Delete"** button, which is a button you can add to the application that will clear the notes from the local storage.
 
 ## Authors
 
